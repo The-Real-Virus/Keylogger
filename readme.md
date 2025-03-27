@@ -123,4 +123,4 @@ Ensure you have explicit permission before testing any system.
 - Obtain explicit permission before testing any system.  
 - Adhere to all applicable laws and regulations.  
 - Respect user privacy and data.  
-- By using this script, you agree to take full responsibility for your actions.  
+- By using this script, you agree to take full responsibility for your actions.   
